@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//import java.lang.Object.*;
 public class checkAnagram { 
  public static void main(String args[]){
   String str1 = "debashree";
@@ -13,7 +13,7 @@ public class checkAnagram {
     Arrays.sort(chstr2);
     boolean result = Arrays.equals(chstr1,chstr2);
     if(result){
-      System.out.println("Anagram");
+      System.out.println("Anagram " + str1 + " and " + str2);
       }
     else{
       System.out.println("Strings are not Anagram");
