@@ -6,3 +6,4 @@ All puzzle java code.
 4. Drawing book page turn count.
 5. Check anagram in strings.
 6. Create the anagram groups from a given set of strings.
+7. Find median of an array.
