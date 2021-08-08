@@ -28,7 +28,7 @@ public class pairAnagram{
     String anagrams = "";
     Iterator<List<String>> iterator = set.iterator();
 
-    while (iterator.hasNext()) {
+    while (iterator.hasNext()) {            //Convert to String
       List<String> data = iterator.next();
       anagrams += data.toString();
     }
