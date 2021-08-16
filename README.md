@@ -10,3 +10,5 @@ All puzzle java code.
 8. Two D array display with the Scanner Class.
 9. Reverse the words in a String.
 10. Remove duplicates from a String.
+11. Remove the space between the words using HashSet, which gives the unsynchronised order.
+12. Remove the space between the words using Stack.
